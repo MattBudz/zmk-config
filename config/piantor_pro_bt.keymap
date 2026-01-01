@@ -94,6 +94,18 @@
             key-positions = <5 6>;
             layers = <0>;
         };
+
+        screenshot {
+            bindings = <&kp LG(LS(NUMBER_4))>;
+            key-positions = <17 18>;
+            layers = <0>;
+        };
+
+        screen_capture {
+            bindings = <&kp LG(LS(NUMBER_5))>;
+            key-positions = <29 30>;
+            layers = <0>;
+        };
     };
 
     keymap {
