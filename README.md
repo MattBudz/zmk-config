@@ -4,4 +4,4 @@ Primarily used for coding in NeoVim
 
 ---
 
-<img width="930" height="1379" alt="my_keymap" src="https://github.com/user-attachments/assets/806e9f3a-fa03-4137-844b-6e76a8bd5f6a" />
+<img width="931" height="1379" alt="my_keymap" src="https://github.com/user-attachments/assets/f3ef3839-8172-46c3-bc64-8c5ba38ff447" />
